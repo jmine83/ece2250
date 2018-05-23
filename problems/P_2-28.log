@@ -1,0 +1,5 @@
+Circuit: * Z:\Documents\Education\Courses\Current\ECE 2250-01\P_2-28.asc
+
+Error on line 8 : f1 n4 n3 29 v2
+	 Unknown parameter "v2"
+Fatal Error: F1: Missing gain value

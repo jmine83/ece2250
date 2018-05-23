@@ -1,0 +1,22 @@
+Circuit: * Z:\Documents\Education\Courses\Current\ECE 2250-01\lab7-2.asc
+
+.OP point found by inspection.
+
+Date: Tue Nov 26 13:44:08 2013
+Total elapsed time: 0.078 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2370
+traniter = 2370
+tranpoints = 1186
+accept = 1161
+rejected = 25
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1: 86 bytes object code size  0.2/0.2/[0.2]
+Matrix Compiler2: 163 bytes object code size  0.2/0.2/[0.2]
+
+
